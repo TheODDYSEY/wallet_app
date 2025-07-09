@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 📱 App Showcasegital wallet app built with Flutter 
+## 📱 Wallet app built with Flutter 
   
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
