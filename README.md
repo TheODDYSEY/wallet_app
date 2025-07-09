@@ -281,31 +281,6 @@ flutter analyze
 - **Audit Logs**: Comprehensive logging for security monitoring
 - **Regular Updates**: Security patches and updates
 
-## 🎯 Roadmap & Future Enhancements
-
-### 🚀 Phase 1: Core Enhancements (Q2 2025)
-- [ ] QR Code payments and receipts
-- [ ] Multi-currency support with live exchange rates
-- [ ] Advanced analytics dashboard with spending insights
-- [ ] Dark theme implementation
-- [ ] Widget support for quick balance check
-- [ ] Apple Pay and Google Pay integration
-
-### 📈 Phase 2: Advanced Features (Q3 2025)
-- [ ] Investment portfolio tracking
-- [ ] Savings goals and budgeting tools
-- [ ] Peer-to-peer marketplace integration
-- [ ] Voice commands and accessibility improvements
-- [ ] Smart notifications with AI insights
-- [ ] Merchant payment solutions
-
-### 🌍 Phase 3: Global Expansion (Q4 2025)
-- [ ] International money transfers
-- [ ] Cryptocurrency integration (Bitcoin, Ethereum)
-- [ ] Multi-language support (Spanish, French, Arabic)
-- [ ] Regional payment methods
-- [ ] AI-powered financial advisor
-- [ ] Integration with banking APIs
 
 ## 📊 App Architecture
 
@@ -315,27 +290,6 @@ flutter analyze
 - **Repository Pattern**: Data layer abstraction
 - **Singleton Pattern**: Shared service instances
 - **Factory Pattern**: Object creation management
-
-### Project Structure
-```
-lib/
-├── main.dart                      # App entry point
-├── config/                        # App configuration
-├── models/                        # Data models
-│   ├── user_model.dart           # User data structure
-│   ├── wallet_model.dart         # Wallet information
-│   └── transaction_model.dart    # Transaction records
-├── services/                      # Business logic
-│   ├── api_service.dart          # REST API integration
-│   ├── auth_service.dart         # Authentication logic
-│   ├── wallet_service.dart       # Wallet operations
-│   └── notification_service.dart # Push notifications
-├── providers/                     # State management
-├── screens/                       # UI screens
-├── widgets/                       # Reusable components
-├── utils/                         # Helper functions
-└── constants/                     # App constants
-```
 
 ## 📱 Platform Support
 
@@ -351,17 +305,6 @@ lib/
 - **Accessibility**: Screen readers, voice control
 - **Performance**: Optimized for mid-range to high-end devices
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### What this means:
-- ✅ **Commercial Use**: You can use this project for commercial purposes
-- ✅ **Modification**: You can modify and distribute modified versions
-- ✅ **Distribution**: You can distribute the original or modified versions
-- ✅ **Private Use**: You can use this project privately
-- ❌ **Liability**: The authors are not liable for any damages
-- ❌ **Warranty**: This project comes with no warranty
 
 ## 🙏 Acknowledgments
 
@@ -398,31 +341,7 @@ We use several amazing open-source libraries that make this app possible:
 - Follow our code of conduct
 - Contribute positively to discussions
 
-## 📈 Stats & Analytics
+## 📄 License
 
-<div align="center">
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-![GitHub stars](https://img.shields.io/github/stars/TheODDYSEY/mywallet?style=social)
-![GitHub forks](https://img.shields.io/github/forks/TheODDYSEY/mywallet?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/TheODDYSEY/mywallet?style=social)
-![GitHub issues](https://img.shields.io/github/issues/TheODDYSEY/mywallet)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/TheODDYSEY/mywallet)
-![GitHub last commit](https://img.shields.io/github/last-commit/TheODDYSEY/mywallet)
-
-</div>
-
----
-
-<div align="center">
-
-**Made with ❤️ using Flutter**
-
-*Revolutionizing digital finance, one transaction at a time*
-
-⭐ **Star this repo if you find it helpful!** ⭐
-
-<img src="assets/images/splash.png" alt="My Pocket Wallet" width="60">
-
-**© 2025 My Pocket Wallet. All rights reserved.**
-
-</div>
