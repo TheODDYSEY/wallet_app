@@ -1,5 +1,3 @@
-# 💳 My Pocket Wallet
-
 <div align="center">
 
 ## 📱 Wallet app built with Flutter 
