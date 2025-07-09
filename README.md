@@ -305,42 +305,6 @@ flutter analyze
 - **Accessibility**: Screen readers, voice control
 - **Performance**: Optimized for mid-range to high-end devices
 
-
-## 🙏 Acknowledgments
-
-Special thanks to the amazing open-source community and contributors who made this project possible:
-
-- **Flutter Team** - For the incredible cross-platform framework
-- **MongoDB** - For providing robust and scalable database solutions
-- **Material Design Team** - For the beautiful design system
-- **Open Source Contributors** - For the amazing packages and libraries
-- **Beta Testers** - For valuable feedback and bug reports
-- **Community** - For continuous support and feature suggestions
-
-### Third-Party Libraries
-We use several amazing open-source libraries that make this app possible:
-- **Provider** by Remi Rousselet - State management
-- **FL Chart** by Iman Khoshabi - Beautiful charts
-- **Shimmer** by Hung Duy Ha - Loading animations
-- **Local Auth** by Flutter Team - Biometric authentication
-- **Animate Do** by Fernando Herrera - Smooth animations
-
-## 📞 Support & Community
-
-### Get Help
-- 📧 **Email Support**: support@mypocketwallet.app
-- 💬 **Community Discord**: [Join our Discord](https://discord.gg/mypocketwallet)
-- 📖 **Documentation**: [docs.mypocketwallet.app](https://docs.mypocketwallet.app)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/TheODDYSEY/mywallet/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/TheODDYSEY/mywallet/discussions)
-
-### Community Guidelines
-- Be respectful and inclusive
-- Help others learn and grow
-- Share knowledge and experiences
-- Follow our code of conduct
-- Contribute positively to discussions
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
